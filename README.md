@@ -1,4 +1,4 @@
-# Port-O-Theater
+# PortableTheater
 A Project for an portable mini entertaiment system using a Raspberry Pi
 
 #Goals
